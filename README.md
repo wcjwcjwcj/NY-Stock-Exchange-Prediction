@@ -64,18 +64,6 @@ SVM machine learning algorithm was chosen to train and predicted the data. This 
 
 ### Installing
 
-* The code files are zipped in a file called 'code'
-*  unzipped the file to get readme and code files 
-*  2 code files are inside, one is 'final.ipynb' to demonstrate my result, one is 'final.py' to execute the code 
-* Download the source code 'final.py' file
-* All the datasets are in an zipped file: 'data.zip'
-* Unzip all the files, and put all the data files under the same folder of the python file. 
-* 'p*.csv' files stand for cover gesuture; 'h*.csv' file stands for circle gestures; 'u*.csv' files stand for swipe gesture; there are 30 files for each gesture.
-* '30swipe.csv', '30cover.csv', '30circle.csv' are used to visualise and demonstrate the changing RSS over gestures. 
-* Video Presentation is under the 'presentation' file 
-
-### Installing
-
 * To run algorithm1 XGBoost.ipynb, users need to install
 pip and xgboost in Anaconda Prompt using the following code:
 
