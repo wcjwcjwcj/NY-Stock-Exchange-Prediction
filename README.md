@@ -17,6 +17,9 @@ the market trend. This is because the market is jointly determined by all partic
 
 ## Description
 
+### Data Selection
+New York Stock Exchange, regression, https://www.kaggle.com/dgawlik/nyse
+
 ###  Previous work on data pre-processing techniques
 Information leaking: Data pre-processing techniques cannot apply to the whole dataset, as it could lead to information leaking. As a result, the outcome after information leaking would outperform the actual outcome. Therefore, the dataset needs
 to be splitted into train and test set first, normalization or standardization techniques could be implemented on data.
