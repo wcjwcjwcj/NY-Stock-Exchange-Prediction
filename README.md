@@ -4,7 +4,7 @@ XGboost, LSTM, LR Models for NY Stock exchange prediction
 # Author
 Jiajin Chen
 
-# Detecting and Predicting Hand Gestures from RSS
+# Objecive
 
 The primary goal of this study is to develop models for New York Stock Exchange price prediction, and obtain a best model with the lowest mean-square error. This study will use three methods to develop these models, namely Linear
 Regression, XGBoost and LSTM. Establishing a reasonable stock price prediction model can grasp the rhythm of the stock market to a certain extent, and
